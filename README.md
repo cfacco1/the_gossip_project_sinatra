@@ -9,7 +9,18 @@
   <li>Chaque potin aura une page dédiée.</li>
 </ul>
 
-<p>Dans le cadre de ce projet, la personne peut 
-- Ecrire un potin
-- Consulter l'index des potins
-- Accéder à la page de son potin (dynamique</p>
+# Ce qui a été fait
+<ul>
+  <li>Architecture du repo</li>
+  <li>Ajouter un potin</li>
+  <li>Indexer les potins</li>
+   <li>Vue dynamique des potins</li>
+</ul>
+
+# Pour lancer la machine
+
+$ rackup -p 4567
+$ shotgun -p 4567
+
+La bise
+CF
