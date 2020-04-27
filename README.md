@@ -8,3 +8,8 @@
   <li>Cette page d'accueil donnera un lien pour un formulaire où quiconque pourra ajouter un potin en base.</li>
   <li>Chaque potin aura une page dédiée.</li>
 </ul>
+
+<p>Dans le cadre de ce projet, la personne peut 
+- Ecrire un potin
+- Consulter l'index des potins
+- Accéder à la page de son potin (dynamique</p>
